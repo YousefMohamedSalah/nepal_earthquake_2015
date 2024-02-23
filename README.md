@@ -1,6 +1,7 @@
 # *EarthQuake in Nepal*
 
-<img src='dataset-cover.jpg'>
+![dataset-cover](https://github.com/YousefMohamedSalah/nepal_earthquake_2015/assets/99505074/30dee3d2-5c58-4766-88c6-6d0c0ba2503e)
+
 
 ## **Overview**
 
